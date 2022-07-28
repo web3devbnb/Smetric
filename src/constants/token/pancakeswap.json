@@ -1,0 +1,78 @@
+{
+  "name": "ShibmetricSwap Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 10,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://exchange.shibmetricswap.finance/images/shibmetricswap.png",
+  "keywords": ["shibmetric", "default"],
+  "tokens": [
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0x4D0cf8293A687dF4C230C8D62B447345BD22BE4c",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.shibmetricswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "Bakery Token",
+      "symbol": "BAKE",
+      "address": "0xb289b361a633A9D2b0B39BAE76BB458d83f58CEC",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.shibmetricswap.finance/images/coins/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xE0dFffc2E01A7f051069649aD4eb3F518430B6a4",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.shibmetricswap.finance/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0xE282a15DBad45e3131620C1b8AF85B7330Cb3b4B",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.shibmetricswap.finance/images/coins/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xae455e8a67Fc2923a9A7743aEcF62adDB0788967",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.shibmetricswap.finance/images/coins/0x55d398326f99059ff775485246999027b3197955.png"
+    },
+    {
+      "name": "XRP Token",
+      "symbol": "XRP",
+      "address": "0xd853E999eB338938e897038f78c576F92f22F39C",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.shibmetricswap.finance/images/coins/0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe.png"
+    },
+    {
+      "name": "Dai Token",
+      "symbol": "DAI",
+      "address": "0x6d91031Cc05A65F254A358A4A81703ce268a5D7c",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.shibmetricswap.finance/images/coins/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3.png"
+    },
+    {
+      "name": "ShibmetricSwap Token",
+      "symbol": "CAKE",
+      "address": "0xd9101B07cbFAee50017c7735Aaa814B95905ff32",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.shibmetricswap.finance/images/coins/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    }
+  ]
+}
